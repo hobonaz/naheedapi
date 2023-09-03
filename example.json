@@ -1,0 +1,20 @@
+{
+ "url":{
+     "soundhound":"https://smart-answering.soundhound.com/trial/get-started",
+     "shlogin":"https://smart-answering.soundhound.com/login",
+     "Booking":" https://www.booking.com/"
+ },
+
+     "Username":{
+         "shusername":"testqaauto2@mail.ru"
+     },
+
+     "Password":{
+         "shpassword":"12345678"
+     }
+
+
+     
+ }
+
+
